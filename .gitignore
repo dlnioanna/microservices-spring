@@ -1,0 +1,5 @@
+# Project exclude paths
+/discovery-server/discovery-server/target/
+/movie-catalog-service/movie-catalog-service/target/
+/movie-info-service/movie-info-service/target/
+/ratings-data-service/ratings-data-service/target/
